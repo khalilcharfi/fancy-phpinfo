@@ -17,7 +17,8 @@
         }
 
         table {
-            width: 730px;
+            width: 100%;
+            max-width: 730px;
             border: 1px solid #ccc;
             background: #fff;
             padding: 1px;
